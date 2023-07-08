@@ -26,6 +26,16 @@
 *.a
 *.lib
 
+using namespace std;
+int main()
+{
+  char s[80];
+  cin >> s;
+  cout << s << endl;
+  system("pause");
+  return 0;
+}
+
 # Executables
 *.exe
 *.out
